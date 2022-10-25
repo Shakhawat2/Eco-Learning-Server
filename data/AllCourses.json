@@ -1,0 +1,35 @@
+[
+    {
+      "id": "01",
+      "name": "HTML",
+      "img" : ""
+    },
+    {
+      "id": "02",
+      "name": "CSS"
+    },
+    {
+      "id": "03",
+      "name": "TAILWIND"
+    },
+    {
+      "id": "04",
+      "name": "JAVASCRIPT"
+    },
+    {
+      "id": "05",
+      "name": "ES6"
+    },
+    {
+      "id": "06",
+      "name": "REACT"
+    },
+    {
+      "id": "07",
+      "name": "NODE JS"
+    },
+    {
+      "id": "08",
+      "name": "EXPRESS JS"
+    }
+  ]
